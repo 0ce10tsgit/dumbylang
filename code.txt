@@ -1,0 +1,11 @@
+funky a(a,b,c){
+  var a = 1;
+  var b = 2;
+  return $a;
+};
+funky b(input){
+  var n = @a(1,2,3);
+  return $n;
+};
+
+var thingy = @b(1);
